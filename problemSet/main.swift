@@ -31,4 +31,12 @@ print("Hello, World!")
 
 //countCyclicPermutation()
 
-repeatingSequence(57, 2)
+//repeatingSequence(57, 2)
+
+//countTilHarvest()
+
+//Town()
+
+//findMyParent()
+
+culDiameter()

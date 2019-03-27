@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe631703-e41b-4380-b0b8-6d5e7cf96e2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problemSet/problemSet2/Problem1.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problemSet/problemSet2/Problem2.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problemSet/Library/Queue.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problemSet/problemSet3/Bridges.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problemSet/problemSet3/TomatoField.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problemSet/problemSet4/Diameter.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problemSet/problemSet4/Heap.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problemSet/problemSet4/PriorityQueue.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problemSet/problemSet4/findMyParent.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/problemSet.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/problemSet.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/problemSet/main.swift" beforeDir="false" afterPath="$PROJECT_DIR$/problemSet/main.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problemSet/problem1.swift" beforeDir="false" afterPath="$PROJECT_DIR$/problemSet/problemSet1/problem1.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problemSet/problem2.swift" beforeDir="false" afterPath="$PROJECT_DIR$/problemSet/problemSet1/problem2.swift" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,36 +20,62 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="macos_x86_64" />
+  <component name="FavoritesManager">
+    <favorites_list name="problemSet" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problemSet/problemSet4/findMyParent.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problemSet/problemSet4/Diameter.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problemSet/problemSet4/PriorityQueue.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-254">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problemSet/main.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+            <state relative-caret-position="88">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problemSet/problemSet2/Problem1.swift">
+        <entry file="file://$PROJECT_DIR$/problemSet/problemSet4/Heap.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problemSet/problemSet2/Problem2.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+            <state relative-caret-position="-697">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,20 +87,30 @@
         <option value="$PROJECT_DIR$/problemSet/problem1.swift" />
         <option value="$PROJECT_DIR$/problemSet/problem2.swift" />
         <option value="$PROJECT_DIR$/problemSet/problemSet2/Problem1.swift" />
-        <option value="$PROJECT_DIR$/problemSet/main.swift" />
         <option value="$PROJECT_DIR$/problemSet/problemSet2/Problem2.swift" />
+        <option value="$PROJECT_DIR$/problemSet/test.swift" />
+        <option value="$PROJECT_DIR$/problemSet/problemSet3/problem1.swift" />
+        <option value="$PROJECT_DIR$/problemSet/Library/Queue.swift" />
+        <option value="$PROJECT_DIR$/problemSet/problemSet3/TomatoField.swift" />
+        <option value="$PROJECT_DIR$/problemSet/problemSet3/Bridges.swift" />
+        <option value="$PROJECT_DIR$/problemSet/problemSet4/PriorityQueue.swift" />
+        <option value="$PROJECT_DIR$/problemSet/problemSet4/Heap.swift" />
+        <option value="$PROJECT_DIR$/problemSet/problemSet4/findMyParent.swift" />
+        <option value="$PROJECT_DIR$/problemSet/main.swift" />
+        <option value="$PROJECT_DIR$/problemSet/problemSet4/Diameter.swift" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="634" />
-    <option name="height" value="800" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Cidr.FilesView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,23 +123,11 @@
               <item name="problemSet" type="1d218c8b:XcodeProjectNode" />
               <item name="problemSet" type="fcab9f18:XcodeViewNode" />
             </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="problemSet" type="1d218c8b:XcodeProjectNode" />
-              <item name="problemSet" type="fcab9f18:XcodeViewNode" />
-              <item name="problemSet2" type="fcab9f18:XcodeViewNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="problemSet" type="1d218c8b:XcodeProjectNode" />
-              <item name="Products" type="fcab9f18:XcodeViewNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Cidr.FilesView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -111,6 +137,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/problemSet/TomatoField" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,32 +178,44 @@
       <updated>1552862173297</updated>
       <workItem from="1552862181860" duration="14058000" />
       <workItem from="1553114542596" duration="6257000" />
+      <workItem from="1553207694833" duration="2866000" />
+      <workItem from="1553302064009" duration="1557000" />
+      <workItem from="1553374879668" duration="14985000" />
+      <workItem from="1553642645742" duration="14622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20315000" />
+    <option name="totallyTimeSpent" value="54345000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13610315" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979339" visible="true" weight="0.12958436" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Favorites" order="3" sideWeight="0.50206614" side_tool="true" weight="0.17152104" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39855072" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18404908" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3977505" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3287037" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3200483" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3287037" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.25308642" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32850242" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32617587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -201,25 +244,31 @@
           <line>23</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/problemSet/problemSet3/TomatoField.swift</url>
+          <line>36</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/problemSet/problemSet3/Bridges.swift</url>
+          <line>81</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/problemSet/problemSet3/Bridges.swift</url>
+          <line>69</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/problemSet/problemSet4/Diameter.swift</url>
+          <line>42</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/problemSet/problem1-1.swift" />
-    <entry file="file://$PROJECT_DIR$/problemSet/problemSet1/problem1.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problemSet/problemSet1/problem2.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/Resources/module_cache.zip!/ModuleCache/10B61/4.2.1/x86_64/macosx10.14/Swift/Misc.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -227,24 +276,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problemSet/problemSet2/Problem1.swift">
+    <entry file="file://$PROJECT_DIR$/problemSet/problemSet1/problem1.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problemSet/main.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        <state relative-caret-position="352">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/problemSet/problemSet2/Problem2.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        <state relative-caret-position="594">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problemSet/problemSet1/problem2.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problemSet/problemSet2/Problem1.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problemSet/test.swift" />
+    <entry file="file://$PROJECT_DIR$/problemSet/Library/Queue.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problemSet/problemSet3/TomatoField.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problemSet/problemSet3/Bridges.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1793">
+          <caret line="94" column="26" selection-start-line="94" selection-start-column="26" selection-end-line="94" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problemSet/problemSet4/Heap.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-697">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problemSet/problemSet4/PriorityQueue.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problemSet/main.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problemSet/problemSet4/Diameter.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problemSet/problemSet4/findMyParent.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
